@@ -1,0 +1,2 @@
+﻿MSVCRT.lib(exe_winmain.obj) : error LNK2001: 無法解析的外部符號 WinMain
+C:\Users\HalfPeople\source\repos\BlueScreen\x64\Release\BlueScreen.exe : fatal error LNK1120: 1 個無法解析的外部符號
